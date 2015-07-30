@@ -1,0 +1,42 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pete-naish/react-playground.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Pete Naish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pete-naish/react-playground/issues"
+  },
+  "homepage": "https://github.com/pete-naish/react-playground",
+  "dependencies": {
+    "browser-sync": "^2.7.5",
+    "browserify": "",
+    "envify": "~3.4.0",
+    "gulp": "3.9.0",
+    "gulp-autoprefixer": "",
+    "gulp-concat": "^2.2.0",
+    "gulp-livereload": "~3.8.0",
+    "gulp-minify-css": "^0.4.5",
+    "gulp-react": "~3.0.1",
+    "gulp-ruby-sass": "",
+    "jquery": "~2.1.3",
+    "react": "",
+    "react-router": "",
+    "react-slick": "^0.6.0",
+    "reactify": "~1.1.0",
+    "underscore": "~1.8.3",
+    "vinyl-source-stream": "",
+    "gulp-uglify": "^1.2.0"
+  }
+}
