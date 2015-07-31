@@ -1,0 +1,18 @@
+[
+    {
+        "author": "Mike Hunt",
+        "text": "This is one comment"
+    },
+    {
+        "author": "Jill Doe",
+        "text": "This is *another* comment"
+    },
+    {
+        "author": "Pete",
+        "text": "Comment!"
+    },
+    {
+        "author": "What!",
+        "text": "Hello"
+    }
+]
